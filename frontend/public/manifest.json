@@ -1,0 +1,13 @@
+{
+  "short_name": "Malaisha",
+  "name": "Malaisha - Skills-based Job Marketplace",
+  "description": "Connect skilled professionals with clients who need their services",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#2563eb",
+  "background_color": "#ffffff",
+  "orientation": "portrait-primary",
+  "categories": ["business", "productivity", "utilities"],
+  "lang": "en"
+}
